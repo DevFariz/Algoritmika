@@ -1,0 +1,2 @@
+# Algoritmika
+Created for course
